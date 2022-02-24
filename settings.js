@@ -18,18 +18,18 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ" //namabot
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama owner
+global.botname = "X~botz-Mdོ" //namabot
+global.ownername= "ᴹᴿ᭄ Wibuu ×፝֟͜×" //nama owner
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "62887435047326" //nomor owner
-global.ownernomerr = "+62887435047326" // nmr owner
+global.ownernomer = "6282352239289" //nomor owner
+global.ownernomerr = "+6282352239289" // nmr owner
 global.thumbnail = "./image/lol_1.jpg" //foto bot ubah di folder image
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
+global.owner = ["6282352239289","6285754058907","6282352239289"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© X~Botz-Mdོ' //sticker wm
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
